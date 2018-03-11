@@ -20,3 +20,4 @@
 All rights to Enzyme.
 
 > Tutorial: https://www.youtube.com/watch?v=8zPepIDOgYk
+> Disclaimer: for educational purpose only.
